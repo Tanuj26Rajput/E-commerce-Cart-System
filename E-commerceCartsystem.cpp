@@ -38,6 +38,7 @@ void AddtoCart(vector<Product> &products, vector<Cart> &cart){
             cartItem.quantity = quantity;
             cart.push_back(cartItem);
             cout << "Product added" << endl;
+            cout << "---------------------------------------" << endl << endl;
             return;
         }
     }
