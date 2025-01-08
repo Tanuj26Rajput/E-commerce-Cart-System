@@ -1,1 +1,4 @@
 # E-commerce-Cart-System
+
+
+The E-commerce Cart System is a console-based application written in C++ that simulates an online shopping experience. It allows users to view available products, add items to their shopping cart, view the cart's contents, and generate a bill. The product catalog includes details such as product ID, name, and price. Users can add products to the cart by specifying the product ID and quantity. The system calculates the total cost of the items in the cart and displays a detailed bill. Key features include user-friendly prompts, checks for empty carts before viewing or billing, and error handling for invalid product IDs. This program demonstrates object-oriented programming concepts such as classes, encapsulation, and vector manipulation, making it a great project for beginners to intermediate C++ programmers.
